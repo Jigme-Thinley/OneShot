@@ -1,0 +1,3 @@
+I want to consume flesh.
+It's a odd desire, no?
+This is purely to test commands.
